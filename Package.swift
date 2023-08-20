@@ -31,4 +31,6 @@ let package = Package(
             dependencies: ["SwipeActions-MacOS"]
         )
     ]
+    
 )
+
