@@ -1,10 +1,8 @@
 # SwipeActions-MacOS
 
-### Just add the macOS support for [`SwipeActions`](https://github.com/aheze/SwipeActions)
+Just add the macOS support for [`SwipeActions`](https://github.com/aheze/SwipeActions)
 
-**Support macOS(v11.0, *)**
-
-- Usage: see [`SwipeActions`](https://github.com/aheze/SwipeActions)
+Support macOS(v11.0, *)
 
 
 ### Installation
@@ -14,7 +12,7 @@ SwipeActions-MacOS can be installed with the Swift Package Manager:
 https://github.com/Lorpaves/SwipeActions-MacOS.git
 ```
 
-### Use
+### Using SwipeView
 
 ```swift
 import SwipeActions-MacOS
@@ -28,3 +26,6 @@ SwipeView {
 }
 
 ```
+
+Detailed Usage: see [`SwipeActions`](https://github.com/aheze/SwipeActions)
+
