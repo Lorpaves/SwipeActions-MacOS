@@ -19,6 +19,6 @@ final class SwipeActions_MacOSTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         let view = MyView()
-           XCTAssertEqual(view.body, Text("Hello, World!"))
+           XCTAssertEqual(view.body, Text("!"))
     }
 }
